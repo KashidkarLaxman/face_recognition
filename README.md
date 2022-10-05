@@ -6,3 +6,6 @@ we taken faces from images using face_dection function
 we trained it haarcascadeClassifier()
 and then we have predicted face in video using trained classifier
 
+
+Modified on 5-oct
+
